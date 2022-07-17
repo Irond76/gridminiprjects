@@ -12,7 +12,16 @@ VARIABLES
   --mainTransitions: all 0.2s linear;
   --mainSpacing: 0.2rem
 }
-
+/*
+======================
+GLOBAL STYLES
+======================
+*/
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 body {
   font-family: "Fira Code", monospace;
 }
